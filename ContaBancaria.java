@@ -21,3 +21,6 @@ public class ContaBancaria{
     str+="Saldo: " + this.saldo +"\tEstado: "+ this.estado +"\n";
 
     return str;
+
+  }
+}
