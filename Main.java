@@ -15,5 +15,8 @@ class Main {
     for (int i = 0; i < vetAluno.length; i++)
     System.out.println(vetAluno[i]);
 
+  ContaBancaria pessoa1 = new ContaBancaria("Eliabe", "15", 522, false);
+    
+
   }
 }
